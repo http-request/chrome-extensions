@@ -1,0 +1,16 @@
+{
+  "name": "Github PR review",
+  "version": "1.0",
+  "description": "Deselect viewed files in github's PR",
+  "action": {
+    "default_title": "Click Me",
+    "default_popup": "index.html"
+  },
+  "permissions": [
+    "activeTab"
+  ],
+  "icons": {
+    "36": "assets/icon.png"
+  },
+  "manifest_version": 2
+}
